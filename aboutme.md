@@ -1,16 +1,20 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Who is this random guy?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi Internet!
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+My name is Chandler Weiner and I'm a jack of all trades. 
 
-What else do you need?
+I am a biologist by day, WordPress web designer by night, and traveler by weekend. 
 
-### my history
+While this site is a stack [Jekyll Blog](https://jekyllrb.com/) running the [Beautiful Jekyll](https://github.com/daattali/beautiful-jekyll) theme, my first love is WordPress and all that it has to offer!
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+If you're in the market for an incredible WordPress website where someone can obsess over it as much as you do, then check out my business at [ObsessiveWP](https://obsessivewp.com)
+
+Are you in the mood to learn how to travel for free? I've been lucky to travel the world for next-to-nothing thanks to points and miles. Want to join me? Learn how at [The Infrequent Flyer Blog](ttps://www.infrequentflyer.blog/)
+
+I run a few silly projects in my spare time on GitHub, like the [Hacktoberfest Swag List](https://hacktoberfestswaglist.com/) where you can earn free swag every October by contributing to Open Source projects. I'm also building two bots; one that corrects spellings of "they're", "their", and "there", and another bot that suggests license files for projects
+
