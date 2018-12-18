@@ -6,6 +6,8 @@ subtitle: Who is this random guy?
 
 Hi Internet!
 
+![octocat](/img/small-octocat.png){:class="img-responsive"}
+
 My name is Chandler Weiner and I'm a jack of all trades. 
 
 I am a biologist by day, WordPress web designer by night, and traveler by weekend. 
@@ -18,4 +20,3 @@ Are you in the mood to learn how to travel for free? I've been lucky to travel t
 
 I run a few silly projects in my spare time on GitHub, like the [Hacktoberfest Swag List](https://hacktoberfestswaglist.com/) where you can earn free swag every October by contributing to Open Source projects. I'm also building two bots; one that corrects spellings of "they're", "their", and "there", and another bot that suggests license files for projects.
 
-![octocat](/img/octocat.png){:class="img-responsive"}
