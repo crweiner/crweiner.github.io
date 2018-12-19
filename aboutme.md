@@ -2,6 +2,7 @@
 layout: page
 title: About me
 subtitle: Who is this random guy?
+bigimg: /img/apple-logo.jpg
 ---
 
 Hi Internet!
@@ -17,5 +18,4 @@ If you're in the market for an incredible WordPress website where someone can ob
 Are you in the mood to learn how to travel for free? I've been lucky to travel the world for next-to-nothing thanks to points and miles. Want to join me? Learn how at [The Infrequent Flyer Blog](https://www.infrequentflyer.blog/).
 
 I run a few silly projects in my spare time on GitHub, like the [Hacktoberfest Swag List](https://hacktoberfestswaglist.com/) where you can earn free swag every October by contributing to Open Source projects. I'm also building two bots; one that corrects spellings of "they're", "their", and "there", and another bot that suggests license files for projects.
-
-![octocat](/img/octocat.png){:class="img-responsive"}
+![octocat](/img/small-octocat.png){:class="img-responsive"}
