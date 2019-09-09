@@ -3,7 +3,6 @@ layout: page
 title: About me
 subtitle: Who is this random guy?
 bigimg: "/img/apple-logo.jpg"
-published: false
 
 ---
 Hi Internet!
