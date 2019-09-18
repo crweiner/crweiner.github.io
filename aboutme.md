@@ -21,3 +21,4 @@ I run a few silly projects in my spare time on GitHub, like the [Hacktoberfest S
 
 I'm also building two bots; one that corrects spellings of "they're", "their", and "there", and another bot that suggests license files for projects.
 ![octocat](/img/small-octocat.png)
+
