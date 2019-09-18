@@ -2,6 +2,8 @@
 layout: post
 title: Hacktoberfest 2019
 image: "/img/Hacktoberfest_19_Events_250x250.png"
+subtitle: test of subtitle
+
 ---
 Are you aware of the wonderful holiday of Hacktoberfest? It's the most swag-filled time of the year!
 
@@ -21,4 +23,4 @@ If you (yes, you dear reader!) contribute to the Hacktoberfest Swag List by subm
 
 Contributing to the list is very simple and can be done entirely on GitHub without installing any tools or programs. Just [follow these rules](https://hacktoberfestswaglist.com/contributing), open a pull request to merge your contribution to the official list, and I'll let you know if things are looking good. 
 
-Be well and happy Hacktoberfest everyone! See you in October! 
+Be well and happy Hacktoberfest everyone! See you in October!
