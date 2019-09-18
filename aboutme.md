@@ -9,7 +9,7 @@ Hi Internet!
 
 My name is Chandler Weiner and I'm a jack of all trades.
 
-I am a biologist by day, WordPress web designer by night, and traveler by weekend.
+I am a biologist by day, WordPress web designer by night, and traveler by the weekend.
 
 While this site is a static [Jekyll Blog](https://jekyllrb.com/) running the [Beautiful Jekyll](https://github.com/daattali/beautiful-jekyll) theme, my first love is WordPress and all that it has to offer!
 
@@ -20,4 +20,4 @@ Are you in the mood to learn how to travel for free? I've been lucky to travel t
 I run a few silly projects in my spare time on GitHub, like the [Hacktoberfest Swag List](https://hacktoberfestswaglist.com/) where you can earn free swag every October by contributing to Open Source projects. There's also the site [Hacktoberfest.events](https://hacktoberfest.events "Hacktoberfest.events") to find Hacktoberfest events around the world!
 
 I'm also building two bots; one that corrects spellings of "they're", "their", and "there", and another bot that suggests license files for projects.
-![octocat](/img/small-octocat.png)\\
+![octocat](/img/small-octocat.png)
