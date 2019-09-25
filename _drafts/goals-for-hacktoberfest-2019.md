@@ -28,3 +28,5 @@ Those who know me see that I wear my shirts from Hacktoberfest proudly. Seriousl
 So, for this year, I intend to continue doing what I can to promote the Hacktoberfest Swag List and help new people get into contributing to open-source code. I also selfishly will use this time to better myself and continue to learn and grow as an individual.
 
 To those participating in Hacktoberfest for the first time, welcome! To those who are veterans, spread the word! [Register for the official event](https://hacktoberfest.digitalocean.com/register "Register for Hacktoberfest"), [read about how to participate](https://hacktoberfest.digitalocean.com/details "How to participate in Hacktoberfest"), and be proud of the work you do to make the world a better place.
+
+![Hacktoberfest 2019 Logo](img/Hacktoberfest_19_Events_250x250.png "Hacktoberfest 2019 Logo")
