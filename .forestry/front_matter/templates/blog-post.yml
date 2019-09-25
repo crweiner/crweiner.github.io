@@ -18,5 +18,5 @@ fields:
   name: image
   label: image
 pages:
-- _posts/goals-for-hacktoberfest-2019.md
+- _posts/2019-09-25-goals-for-hacktoberfest-2019.md
 - _posts/2019-09-18-hacktoberfest-2019.md
