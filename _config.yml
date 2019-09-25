@@ -253,6 +253,7 @@ prose:
 
 plugins:
   - jekyll-paginate
+  - Jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
 
