@@ -11,7 +11,7 @@ This year marks my third year participating in Hacktoberfest and it is something
 
 Last year marked the introduction of a little project I called the [Hacktoberfest Swag List](https://hacktoberfestswaglist.com/ "Hacktoberfest Swag List"). Once I realized that Microsoft and SendGrid were offering their own t-shirts and stickers to people who helped out in their own GitHub repos, I made a [very simple public list](https://github.com/crweiner/hacktoberfest-swag-list/tree/30965cec8ac3d3654a16972e6e1e09f3044146d8 "Old swag list code") so I could keep track of it all and asked for others to contribute.
 
-My goal shifted from simply providing _me_ with a list of swag to providing _everyone_ with a list, particularly targeted at people new to coding who wanted to feel a sense of accomplishment for helping companies they know and use. 
+My goal shifted from simply providing _me_ with a list of swag to providing _everyone_ with a list, particularly targeted at people new to coding who wanted to feel a sense of accomplishment for helping companies they know and use.
 
 To accomplish this goal, I experimented with turning the list into a GitHub Pages site powered by Jekyll. That then lead to me learning how to use [Netlify](https://www.netlify.com/ "Netlify") to host a website, how to setup [Jekyll](https://jekyllrb.com/ "Jekyll") as a static site generator locally, learning how to better my Markdown coding with [CodeClimate](https://codeclimate.com/ "CodeClimate"), what the heck an IDE is and how to use something like [Codeanywhere](https://codeanywhere.com/ "Codeanywhere") to help me make my code better, how to configure webhooks, and how to be a manager in charge of a public project that people relied upon.
 
@@ -28,5 +28,3 @@ Those who know me see that I wear my shirts from Hacktoberfest proudly. Seriousl
 So, for this year, I intend to continue doing what I can to promote the Hacktoberfest Swag List and help new people get into contributing to open-source code. I also selfishly will use this time to better myself and continue to learn and grow as an individual.
 
 To those participating in Hacktoberfest for the first time, welcome! To those who are veterans, spread the word! [Register for the official event](https://hacktoberfest.digitalocean.com/register "Register for Hacktoberfest"), [read about how to participate](https://hacktoberfest.digitalocean.com/details "How to participate in Hacktoberfest"), and be proud of the work you do to make the world a better place.
-
-![Hacktoberfest 2019 Logo](img/Hacktoberfest_19_Events_250x250.png "Hacktoberfest 2019 Logo")
