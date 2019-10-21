@@ -18,7 +18,7 @@ fields:
   name: image
   label: image
 pages:
-- _posts/hacktoberfest-2019-2-weeks-in.md
 - _posts/wordpress-orlando-october-meetup.md
+- _posts/hacktoberfest-2019-2-weeks-in.md
 - _posts/2019-09-25-goals-for-hacktoberfest-2019.md
 - _posts/2019-09-18-hacktoberfest-2019.md
