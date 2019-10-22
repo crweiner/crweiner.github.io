@@ -5,7 +5,7 @@ subtitle: Want to learn about Git, GitHub, and how they fit into your WordPress 
 image: img/600_477239677.png
 
 ---
-Hello WordPress People!
+Hello WordPress People! Let's talk about Git, GitHub, and the wonderful word of WordPress.
 
 I'm honored to be presenting a talk at the WordPress Orlando October Meetup titled **_Hacktoberfest 2019: Git, GitHub, and WordPress._**
 
