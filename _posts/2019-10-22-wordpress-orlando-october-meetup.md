@@ -13,4 +13,4 @@ This talk covers the very basics of Git and GitHub as well as dives into how Git
 
 You can view the [Google Docs slides by clicking the link here](https://docs.google.com/presentation/d/1tQuDIBwzjs8fpQ-ZS5wmkb92IMtp7oMafFGr4xQPAqc/edit?usp=sharing "Hacktoberfest 2019: Git, GitHub, and WordPress").
 
-Soon to come: Video of the presentation.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a67Juz5stq0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
