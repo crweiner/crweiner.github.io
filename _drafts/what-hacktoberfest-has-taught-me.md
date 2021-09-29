@@ -1,7 +1,7 @@
 ---
-layout: ''
+layout: post
 title: What Hacktoberfest Has Taught Me
-subtitle: ''
+subtitle: I owe a lot to Hacktoberfest
 image: img/hacktoberfest_final_2color-06-copy.png
 
 ---
