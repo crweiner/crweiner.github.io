@@ -15,7 +15,7 @@ While this site is a static [Jekyll Blog](https://jekyllrb.com/) running the [Be
 
 If you're in the market for an incredible WordPress website where someone can obsess over it as much as you do, then check out my business at [ObsessiveWP](https://obsessivewp.com).
 
-[My GitHub profile is available here](https://github.com/crweiner) for all of my projects.
+[My GitHub profile is available here](https://github.com/crweiner) for all of my projects and my tweets on WordPress, Hacktoberfest, science, and travel are at [@C_Dubbs](twitter.com/c_dubbs).
 
 Are you in the mood to learn how to travel for free? I've been lucky to travel the world for next-to-nothing thanks to points and miles. Want to join me? Learn how at [The Infrequent Flyer Blog](https://www.infrequentflyer.blog/).
 
