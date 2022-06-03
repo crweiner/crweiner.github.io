@@ -11,7 +11,7 @@ My name is Chandler Weiner and I'm a jack of all trades.
 
 I am a biologist by day, WordPress web designer by night, and traveler by the weekend.
 
-While this site is a static [Jekyll Blog](https://jekyllrb.com/) running the [Beautiful Jekyll](https://github.com/daattali/beautiful-jekyll) theme, my first love is WordPress and all that it has to offer!
+While this site is a static [Jekyll Blog](https://jekyllrb.com/) running the [Beautiful Jekyll](https://github.com/daattali/beautiful-jekyll) theme, my first love is WordPress and all that it has to offer! [I enjoy talking about WordPress in the Orlando WordPress Meetup](/2019-10-22-wordpress-orlando-october-meetup/) group and shared my WordPress journey on [WP Coffee Talk](/2020-04-30-wp-coffee-talk/).
 
 If you're in the market for an incredible WordPress website where someone can obsess over it as much as you do, then check out my business at [ObsessiveWP](https://obsessivewp.com).
 
