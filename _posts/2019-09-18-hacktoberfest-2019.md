@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Hacktoberfest 2019
-image: "/img/Hacktoberfest_19_Events_250x250.png"
+image: /img/Hacktoberfest_19_Events_250x250.png
 subtitle: Let's Get Ready For Open-Source Love And Swag!
-
+_template: blog_post
 ---
+
 Are you aware of the wonderful holiday of Hacktoberfest? It's the most swag-filled time of the year!
 
 [Hacktoberfest](https://hacktoberfest.digitalocean.com/) is an annual celebration of open-source code sponsored each year by [DigitalOcean](https://digitalocean.com) and other companies during the month of October (for 2019 it's [Dev.to](https://dev.to/) that's the official cosponsor). By submitting 4 pull requests on any GitHub repository, you will get a t-shirt absolutely free!

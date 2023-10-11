@@ -3,8 +3,9 @@ layout: post
 title: Goals for Hacktoberfest 2019
 subtitle: There's many things that I hope to get out of Hacktoberfest this year
 image: img/Hacktoberfest_19_Events_250x250.png
-
+_template: blog_post
 ---
+
 There's no secret that I really enjoy [Hacktoberfest](https://hacktoberfest.digitalocean.com "Hacktoberfest"). If you follow me on [Twitter](https://twitter.com/C_Dubbs/ "Twitter"), you'll see that the entire month of October is nearly reserved for talking about Hacktoberfest.
 
 This year marks my third year participating in Hacktoberfest and it is something I am very proud of. Because of this event, I've started teaching myself Python, R, and started dabbling in Ruby. I entirely have this holiday to thank for giving me the kick that I need to learn how to code and I am very thankful to every company and individual that has to still brave through my contributions and pull requests.

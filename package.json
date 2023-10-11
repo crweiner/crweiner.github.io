@@ -1,0 +1,17 @@
+{
+  "name": "crweiner.github.io",
+  "version": "1.0.0",
+  "description": "The personal website of Chandler Weiner at ChandlerWeiner.com.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tinacms/cli": "^1.5.30",
+    "jekyll": "^3.0.0-beta1",
+    "tinacms": "^1.5.21"
+  }
+}

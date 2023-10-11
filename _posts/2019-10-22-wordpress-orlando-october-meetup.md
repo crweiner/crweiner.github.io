@@ -1,10 +1,11 @@
 ---
 layout: post
 title: WordPress Orlando October Meetup
-subtitle: Want to learn about Git, GitHub, and how they fit into your WordPress world?
+subtitle: 'Want to learn about Git, GitHub, and how they fit into your WordPress world?'
 image: img/600_477239677.png
-
+_template: blog_post
 ---
+
 Hello WordPress People! Let's talk about Git, GitHub, and the wonderful word of WordPress.
 
 I'm honored to be presenting a talk at the WordPress Orlando October Meetup titled **_Hacktoberfest 2019: Git, GitHub, and WordPress._**
