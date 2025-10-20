@@ -9,15 +9,13 @@ Hello Internet!
 
 My name is Chandler Weiner and I'm a jack of all trades.
 
-I am a biologist by day, WordPress web designer by night, and traveler by the weekend.
+I am a biologist by training, [WordPress nerd at Automattic during the day](https://specialprojects.automattic.com/), and nerdy dad 24/7.
 
 While this site is a static [Jekyll Blog](https://jekyllrb.com/) running the [Beautiful Jekyll](https://github.com/daattali/beautiful-jekyll) theme, my first love is WordPress and all that it has to offer! [I enjoy talking about WordPress in the Orlando WordPress Meetup](/2019-10-22-wordpress-orlando-october-meetup/) group and shared my WordPress journey on [WP Coffee Talk](/2020-04-30-wp-coffee-talk/).
 
-If you're in the market for an incredible WordPress website where someone can obsess over it as much as you do, then check out my business at [ObsessiveWP](https://obsessivewp.com).
+I used to run a WordPress agency, [ObsessiveWP](https://obsessivewp.com), and used that experience to pivot into a dream job at [Automattic](https://automattic.com/).
 
 [My GitHub profile is available here](https://github.com/crweiner) for all of my projects and my tweets on WordPress, Hacktoberfest, science, and travel are at [@C_Dubbs](https://twitter.com/c_dubbs).
-
-Are you in the mood to learn how to travel for free? I've been lucky to travel the world for next-to-nothing thanks to points and miles. Want to join me? Learn how at [The Infrequent Flyer Blog](https://www.infrequentflyer.blog/).
 
 I run a few projects in my spare time on GitHub, like the [Hacktoberfest Swag List](https://hacktoberfestswaglist.com/) where developers earn swag every October by contributing to unique open source projects.
 
